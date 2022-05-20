@@ -1,0 +1,11 @@
+## What Skills Are Most Important to Have in Developer Relations?
+
+The most important skill I have learned that helps with many careers, especially developer relations, is communication. In developer relations, the primary purpose of your job is to be able to communicate between the platform and the developers using the platform. 
+
+Communication comes in many forms beyond just verbal. When speaking to developers, knowing how to break down technical concepts into easy-to-understand formats will increase user adaptability. When speaking to the company, you should be able to communicate any feedback received from developers or express the work you've accomplished and its impact. Being comfortable with expressing yourself through a medium such as a video, blogs, infographics, tweets, etc., will also help when you need to convey ideas internally and externally.
+
+As a side note, you don't need to be good at every format. It helps to be well-rounded in all mediums when working solo or specializing in one on a bigger developer relations team. For example, I play to my strength of writing, delivering workshops, or creating infographics more than publishing videos and public speaking. I rely on my team to produce different types of content. Always play to your strengths.
+
+Second to communication is the skill of listening. In Dev Rel, you are constantly listening to both the company and users to address the needs of both. Internally, you may get updates on platform changes and maybe something high-level like a quarterly goal. Listening to the company on the constant stream of updates will help when you need to set up your deliverables later on or when you need to release this feedback to the public. From the community of developers, it's also vital to listen to what they are excelling or struggling with and what improvements would help them utilize your platform better. 
+
+Combining your skills of communication in many formats as well as learning how to listen will help you stand apart and enhance your career in developer relations. At the end of the day, you are advocating for people. Knowing how to talk to people and listen for feedback will allow you to move forward in any area you develop.
