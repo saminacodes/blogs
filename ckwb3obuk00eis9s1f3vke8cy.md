@@ -14,4 +14,4 @@ Then take your existing talent as a designer, manager, etc., and just start appl
 
 I know I made it sound relatively simple, but my point is to not treat the job hunt in Web3 any different than Web2. 
 
-Ready to apply to some jobs? Checkout this Web3 job board https://web3.career/non-tech-jobs
+Ready to apply to some jobs? Checkout my job board https://samina.pallet.xyz
