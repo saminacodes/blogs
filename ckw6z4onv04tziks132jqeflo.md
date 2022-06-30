@@ -1,4 +1,4 @@
-## Do I need to be a web developer before I learn Web3?
+## Do I need to be a web developer before I learn web3?
 
 **Short answer:** No, you do not need to be a web developer to learn Web3. 
 
