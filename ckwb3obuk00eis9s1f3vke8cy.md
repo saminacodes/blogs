@@ -1,4 +1,4 @@
-## Do you have to be a developer to be involved in Web3?
+## Do you have to be a developer to be involved in web3?
 
 **TLDR:** No, you do not need to be a developer to be involved in Web3.
 
