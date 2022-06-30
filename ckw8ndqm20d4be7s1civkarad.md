@@ -1,4 +1,4 @@
-## What are some resources you recommend to get started in Web3?
+## What are some resources you recommend to get started in web3?
 
 I want to premise this answer by saying everyone learns very differently. Some learn better through books, and others learn best through videos. Some people are equipped with the confidence to dive right into some code. 
 
